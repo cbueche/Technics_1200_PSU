@@ -36,7 +36,7 @@ Sorry, no BOM, see the CSV file in the [kicad](kicad/) directory, the footprint 
 
 ## case
 
-The original transformer and this PCB die nicely fit into a Hifi 2000 Galaxy case model GX183 (80x124x230). A tight fit so check before drilling holes.
+The original transformer and this PCB did somewhat tightly fit into a Hifi 2000 Galaxy case model GX183 (80x124x230). A tight fit so check before drilling holes.
 
 ![inside](img/inside.jpg "inside")
 
